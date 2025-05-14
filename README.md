@@ -11,3 +11,5 @@ As is usual with Power BI, this dashboard is dynamic, changing its values just b
 * [Color Hex](https://www.color-hex.com) - Get some colors!
 * [ColorSpace](https://mycolor.space) - Find palettes for the color of your choice!
 * [Flaticon](https://www.flaticon.com) - Free vector icons and stickers!
+
+![manufacture-dashboard](https://github.com/user-attachments/assets/65f5e967-5493-4159-9989-f8e8f988dd61)
